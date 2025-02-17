@@ -1,0 +1,10 @@
+{
+	"name": "Weather Update",
+	"type": "interval",
+	"description": "Sends weather updates at regular intervals.",
+	"settings": {
+		"interval": 3600,
+		"city": "Lagos"
+	},
+	"endpoint": "https://your-public-url.com/weather_update"
+}
